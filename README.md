@@ -9,7 +9,7 @@ available here:
 
 http://www.mdbg.net/chindict/chindict.php?page=cedict
 
-See that page for licensing details, but per that Web site, the data may used for
+See that page for licensing details, but per that Web site, the data may be used for
 commercial and non-commercial purposes as long as attribution is provided.
 
 ## Status

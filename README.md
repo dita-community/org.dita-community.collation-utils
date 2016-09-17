@@ -32,4 +32,6 @@ uses configuration files to define the collation and grouping rules for a large 
 of languages and is sufficient for all languages except Simplified Chinese, which requires
 a dictionary-based solution.
 
-
+Antenna House (http://www.antennahouse.com) provides a commercial Simplified Chinese
+library for use with XSLT generally and with the DITA Open Toolkit. It provides complete
+grouping and supporting for most languages, including Asian languages.

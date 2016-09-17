@@ -18,6 +18,10 @@ As of 17 Sept 2016 this is a simple proof of concept to demonstrate that the
 CC-CEDICT data is sufficient to do reasonably-correct Simplified Chinese 
 sorting.
 
+NOTE: The test data set has been omitted pending permission to include it. The
+expected format of the glossary.ditamap is a DITA map with a topichead with the 
+navigation title "Glossary" and child topicrefs to glossentry topics.
+
 The XSLT module xsl/collation-utils.xsl implements functions to get DITA-specific
 sort keys for elements and, when the language is "zh-CN", uses the CC-CEBIT dictionary
 to look up Pin-Yin transliterations for the base Chinese sort key.
